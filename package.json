@@ -1,6 +1,6 @@
 {
   "name": "@jianghuifr/dsh-highlight",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A syntax-highlighted code preview for the shell dotfiles the DeepSeek Harness Web UI would otherwise show as plain text (.bashrc, .gitconfig, …).",
   "keywords": [
     "dsh",
