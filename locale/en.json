@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Dotfile code highlight",
+    "description": "Claims the dotfile suffixes the shipped preview table misses (.bashrc, .zshrc, .gitconfig, …) and renders them with line numbers and syntax colours instead of plain text."
+  }
+}

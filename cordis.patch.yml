@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-highlight
+      name: '@jianghuifr/dsh-highlight'

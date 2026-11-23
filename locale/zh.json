@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "dotfile 代码高亮",
+    "description": "认领官方预览表漏掉的 dotfile 后缀（.bashrc、.zshrc、.gitconfig 等），用带行号和语法着色的代码预览代替纯文本。"
+  }
+}
